@@ -1,4 +1,4 @@
-# Electric-Vehical-Market-segmentation
+# Electric-Vehicle-Market-segmentation
 # Behavioral Segmentation Analysis:
 Behavioral segmentation divides the target market into distinct groups based 
 on their behaviors, preferences, and buying habits related to electric vehicles 
