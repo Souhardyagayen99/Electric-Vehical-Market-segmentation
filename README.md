@@ -1,56 +1,40 @@
-# Electric-Vehicle-Market-segmentation
-# Behavioral Segmentation Analysis:
-Behavioral segmentation divides the target market into distinct groups based 
-on their behaviors, preferences, and buying habits related to electric vehicles 
-(EVs). In this analysis, we have identified two key behavioral segments:
+## Electric-Vehicle-Market-Segmentation
 
-## Part 1: Wealthy and Premium Buyers
-Characteristics:
-High-income individuals with considerable purchasing power.
-Value luxury, prestige, and status symbols.
-Willing to pay a premium for top-of-the-line electric vehicles.
-Preferences:
-Interested in high-end EV models with advanced features and cutting-edge 
-technology.
-Seek electric cars with longer range, faster charging, and superior 
-performance.
-Prioritize brand reputation and image in their purchasing decisions.
-Buying Habits:
-Conduct extensive research before making a purchase.
-Prefer personalized and high-touch customer experiences.
-May consider customizations and optional add-ons for their EVs.
-Messaging:
-Emphasize the exclusivity, luxury, and sophistication of premium electric 
-vehicles.
-Highlight the latest technological advancements and premium materials used 
-in the EVs.
-Showcase the brand's heritage and reputation to build trust and credibility.
+This is a team task where the job is to analyse the Electric Vehicle market in India using Segmentation analysis and come up with a feasible strategy to enter the market, targeting the segments most likely to use Electric vehicles. 
 
-## Part 2: Eco-Conscious and Budget-Friendly Buyers
-Characteristics:
-Environmentally conscious individuals who prioritize sustainability.
-Value affordability and seek budget-friendly options.
-Willing to switch to electric vehicles for environmental benefits.
-Preferences:
-Prefer affordable EV models with practical features and decent performance.
-Look for electric vehicles with sufficient range to meet their daily commuting 
-needs.
-Focus on eco-friendly materials and recyclability of the EV components.
-Buying Habits:
-Conduct thorough research to find the most cost-effective EV options.
-May be influenced by government incentives and subsidies for EV adoption.
-Consider total cost of ownership and long-term savings from using electric 
-vehicles.
-Messaging:
-Emphasize the environmental advantages of EVs, such as reduced carbon 
-footprint and lower emissions.
-Highlight the cost savings associated with owning and operating electric 
-vehicles.
-Promote the ease of use, convenience, and low maintenance requirements of 
-budget-friendly EVs.
-To effectively target these behavioral segments, the marketing and sales 
-strategies should be tailored to address their unique preferences, needs, and 
-motivations. By understanding the distinct characteristics of each segment, the 
-company can design targeted campaigns, products, and messaging to 
-successfully enter the Indian EV market and capture the attention of the most 
-relevant potential customers.
+The following datsets are used to come up with segments to target:
+1. Geographic & Vehicle Space Segmentation.
+2. Behavourial Segmentation.
+3. Vehicle Specification Segmentation.
+
+##  Geographic & Vehicle Space Segmentation
+
+In this part, we analyze the EV market across various states and then select the states to target and also the kind of EV to make.
+
+Targetted States : Maharashtra, Uttar Pradesh, Karnataka, Gujarat, Delhi
+Targetted Vehicle Space: Cycle, Car, Moped, E- Rickshaw
+
+## Behavourial Segmentation
+
+This segmentation talks about the marital status, age, salary and the preferred price of EV. Based on the clusters formed here we have 2 segments:
+
+Segment 1 : These are wealthy people which can buy costly and premium Electric Vehicles.
+Segment 2: These are people who woul opt for eco and budget friendly Electric Vehicles.
+
+## Vehicle Specification Segmentation
+
+This datset consists of vehcile specifications such as its range, efficiency, top speed and the type of drive. 
+
+## Contributors 
+[@Haseebae](https://github.com/Haseebae)
+[@Pratiksha Rale](https://github.com/Pratiksha228)
+
+## Some Visualizations:
+
+![1](EV.PNG)
+
+![2](table_chart.png)
+
+![3](cluster1.PNG)
+
+![4](cluster2.PNG)
