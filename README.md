@@ -25,13 +25,3 @@ Segment 2: These are people who woul opt for eco and budget friendly Electric Ve
 ## Vehicle Specification Segmentation
 
 This datset consists of vehcile specifications such as its range, efficiency, top speed and the type of drive.
-
-## Some Visualizations:
-
-![1](EV.PNG)
-
-![2](table_chart.png)
-
-![3](cluster1.PNG)
-
-![4](cluster2.PNG)
